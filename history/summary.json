@@ -6,7 +6,7 @@
     "slug": "oracle-service",
     "status": "down",
     "uptime": "7.32%",
-    "uptimeDay": "69.61%",
+    "uptimeDay": "67.99%",
     "uptimeWeek": "23.43%",
     "uptimeMonth": "7.32%",
     "uptimeYear": "7.32%",
@@ -16,7 +16,8 @@
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2023-04-18": 437,
+      "2023-04-19": 9,
+      "2023-04-18": 451,
       "2023-04-17": 504,
       "2023-04-16": 1003,
       "2023-04-15": 1440,

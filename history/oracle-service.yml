@@ -1,7 +1,7 @@
 url: https://node.mgh.finance/pricing?callOrPut=call&nonce=0&strike=1474130000&maturity=86400&buyer=0xda36a69F364f29F7f7Dd7348E1Cf473168F59bB9
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-05-03T09:27:31.016Z
+status: up
+code: 200
+responseTime: 322
+lastUpdated: 2023-05-03T13:08:16.859Z
 startTime: Mon Mar 27 2023 14:11:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
